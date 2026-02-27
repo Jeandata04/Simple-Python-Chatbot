@@ -42,6 +42,7 @@ python-chatbot/
 - Improve response matching
 - Add simple NLP processing
 - Create a graphical interface
+- Add a simple user interface
 
 ## Author
 
