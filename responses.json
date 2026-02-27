@@ -1,0 +1,5 @@
+{
+  "hello": ["Hi there!", "Hello!", "Hey!"],
+  "how are you": ["I'm just code, but I'm doing great!", "All systems operational!"],
+  "bye": ["Goodbye!", "See you later!"]
+}
