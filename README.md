@@ -26,7 +26,7 @@ python-chatbot/
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/python-chatbot.git
+   git clone https://github.com/Jeandata04/python-chatbot.git
 
 2. Navigate into the folder:
    cd python-chatbot
